@@ -8,11 +8,8 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Angular](https://angular.io/)
 - 
-# 👀 Tela principal
+# 👀 Exemplo de listagem
 <img src="https://user-images.githubusercontent.com/53583192/158655890-7cb19fe7-3988-4ae3-ba85-bfa1ebb83aba.PNG"/>
-
-# 👀 Tela de inserção
-<img src="https://user-images.githubusercontent.com/53583192/158656638-3899ee73-6439-4485-b556-0f78fa5f47b1.PNG"/>
 
 # 🎇 Funcionalidades 
 - Inserir transferências
